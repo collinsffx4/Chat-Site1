@@ -117,16 +117,13 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>Coinbase Support is the customer service team for Coinbase, a popular online platform for buying, selling, and storing cryptocurrencies like Bitcoin, Ethereum, and others.
+            <p>We’re a top U.S. government agency that handles big stuff like:
+Investigating serious crimes (terrorism, kidnapping, cyberattacks, organized crime)
+Protecting national security (stopping spies and foreign threats)
+Working with local police when things get too big or cross state lines
+Handling major criminal investigations across the country and sometimes internationally.
 
-The Coinbase Support team is responsible for:
-
-1. Answering questions about Coinbase services and features.
-2. Resolving issues with accounts, transactions, and payments.
-3. Providing guidance on security, verification, and compliance.
-4. Assisting with technical problems, such as login or connectivity issues.
-
-You can typically contact Coinbase Support through here .</p>
+You can typically contact OUR Support through here .</p>
           </div>
         `
         break
